@@ -9,7 +9,7 @@ application:
         value: "4200"
       REVIEW_API:
         # This is hardcoded!
-        value: "https://review-gabbar-dev.apps.devtest.vxdqgl7u.kubeapp.cloud"
+        value: "https://review-gabbar-dev.apps.preprod.jlvwjls8.kubeapp.cloud/"
     probes:
       readinessProbe:
         failureThreshold: 3
